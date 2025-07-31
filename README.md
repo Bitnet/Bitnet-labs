@@ -24,11 +24,11 @@ This repository is part of my 12-month journey to develop professional Red Team 
 
 ## 📂 Repository Structure (Planned)
 Bitnet-labs/
-│
-├── scripts/ # Custom tools and scripts for offensive security
-├── writeups/ # CTFs, labs, and attack simulations
-├── notes/ # Cheatsheets, commands, learning notes
-└── projects/ # Mini-projects and Red Team exercises
+
+scripts/ # Custom tools and scripts for offensive security
+writeups/ # CTFs, labs, and attack simulations
+notes/ # Cheatsheets, commands, learning notes
+projects/ # Mini-projects and Red Team exercises
 
 ---
 
