@@ -6,11 +6,10 @@
 
 ---
 
-## 🔹 Level 0 → 1
-**Goal:** Connect to the Bandit server via SSH.  
-**Approach:** Use the given user and port.  
-**Command:**
-```bash
+🔹 Level 0 → 1
+Goal: Connect to the Bandit server via SSH.  
+Approach: Use the given user and port.  
+Command:
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 🔹 Level 1 → 2
