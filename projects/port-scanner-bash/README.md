@@ -1,0 +1,1 @@
+- [Port Scanner Bash](./port-scanner-bash) — Simple TCP scanner written in Bash, part of Week 3 Red Team training (Personal Roadmap).
