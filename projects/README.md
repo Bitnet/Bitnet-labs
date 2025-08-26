@@ -1,15 +1,16 @@
-# Mini Port Scanner (Python)
+# Projects
 
-Simple TCP port scanner built with Python sockets.  
-This project is part of my personal Red Team learning labs (**Bitnet-labs**).
+This folder contains small projects and practical exercises developed during my Red Team and Offensive Security learning journey.  
+Each project is self-contained, with its own README and example usage.
 
-## Features
-- Scans a range of TCP ports on a given host
-- Uses Python's native `socket` module
-- Prints all open ports found
-- Lightweight and dependency-free
+## Available Projects
 
-## Usage
+- **port-scanner-bash/**  
+  A simple port scanner written in Bash using loops and `nc`/`bash` features.
 
-```bash
-python3 mini_scanner.py <host> <start_port> <end_port>
+- **port-scanner-python/** *(in progress)*  
+  A minimal port scanner in Python using sockets.
+
+---
+
+More projects will be added here as I progress through different phases of my learning path.
