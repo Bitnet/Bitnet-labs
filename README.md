@@ -1,6 +1,6 @@
 # Bitnet-labs
 
-Personal Red Team and Offensive Security labs, exercises, and projects.  
+Personal Red Team and Offensive Security labs, exercises, and projects. This repository grows organically as I progress through labs and projects. Content is structured by practical exercises, not just theory.
 This repository documents my journey to become an Offensive Security professional and Red Teamer, including:
 
 - 🛠 **Hands-on labs and simulations** (HTB, THM, custom VMs)
